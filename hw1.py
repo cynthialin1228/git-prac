@@ -1,4 +1,4 @@
-print "hello world"
+print "hi dog"
 
 print "this is wsl"
 
